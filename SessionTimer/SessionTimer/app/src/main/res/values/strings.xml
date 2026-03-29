@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Session Timer</string>
+    <string name="accessibility_description">Monitors app launches to prompt session timers</string>
+</resources>
